@@ -26,12 +26,14 @@ An interactive tarot reading web application with multilingual support, session 
 
 ## Tech Stack
 
-* Python
-* Streamlit
-* Git & GitHub
-* Audio Processing
-* Data Visualization
-* JSON Handling
+*Python
+*Streamlit
+*Git
+*GitHub
+*Audio Analysis
+*Data Processing
+*Data Visualization
+*JSON
 
 ## Currently Learning
 
