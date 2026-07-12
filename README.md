@@ -1,47 +1,97 @@
-# Hi, I'm SooWan Park 👋
+<p align="center">
+  <img src="/images/projectlab_image.png" width="700" alt="Nyanyachi Project Lab">
+</p>
 
-Python-focused developer building practical web applications with Streamlit.
+<h1 align="center">Hi, I'm SooWan Park 👋</h1>
 
-I enjoy creating tools that solve real-world problems, especially in audio analysis, productivity, and interactive user experiences.
+<p align="center">
+Python Developer • AI & Streamlit Applications • Audio Analysis
+</p>
 
-## Featured Projects
+---
+
+## ✨ About Me
+
+I build practical desktop and web applications with **Python** and **Streamlit**.
+
+My projects focus on:
+
+- 🎵 Audio Analysis
+- 🤖 AI-assisted Applications
+- 🎙️ Music & Vocal Tools
+- 📊 Productivity Utilities
+
+I enjoy turning everyday ideas into simple, useful applications.
+
+---
+
+## 🚀 Featured Projects
 
 ### 🎵 Vocal Pitch Analysis App
 
-A web application that analyzes vocal recordings and visualizes pitch accuracy, stability, and performance metrics for singing practice.
+A vocal analysis application for singers that measures pitch accuracy, stability, and performance using audio visualization.
 
-**Tech:** Python, Streamlit, Audio Analysis
+**Tech**
+- Python
+- Streamlit
+- Librosa
+- Audio Analysis
+
+---
 
 ### 🎚️ Mixing Assistant
 
-A vocal mixing support tool that analyzes WAV files and provides recommendations for EQ, compression, de-essing, and workflow improvements.
+An AI-assisted mixing support tool that analyzes WAV files and provides recommendations for EQ, Compression, and De-essing.
 
-**Tech:** Python, Streamlit, Audio Processing
+**Tech**
+- Python
+- Streamlit
+- Audio Processing
+
+---
 
 ### 🔮 Lumen Tarot
 
-An interactive tarot reading web application with multilingual support, session management, and template-based interpretation logic.
+A multilingual tarot reading application with template-based AI interpretation and session management.
 
-**Tech:** Python, Streamlit, JSON Data Handling
+**Tech**
+- Python
+- Streamlit
+- JSON
 
-## Tech Stack
+---
 
-*Python
-*Streamlit
-*Git
-*GitHub
-*Audio Analysis
-*Data Processing
-*Data Visualization
-*JSON
+## 🛠 Tech Stack
 
-## Currently Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-* Software Development
-* Audio Analysis Workflows
-* User-Centered Application Design
+---
 
-## Links
+## 🌱 Currently Working On
 
-* GitHub: https://github.com/nyanyachi
-* Portfolio Projects: Available in pinned repositories
+- Nyanyachi Project Lab
+- Vocal Pitch Analysis App
+- Mixing Assistant
+- AI Productivity Tools
+
+---
+
+## 🌐 Links
+
+🌐 Project Lab  
+https://nyanyachi.github.io/nyanya-site/
+
+💻 GitHub  
+https://github.com/nyanyachi
+
+🎵 YouTube  
+https://www.youtube.com/@nyanyabox
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my GitHub!
+</p>
