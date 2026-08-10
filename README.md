@@ -1,85 +1,104 @@
 # Hi, I'm SooWan Park 👋
 
-**Python Developer** focused on AI-powered applications, audio analysis, and productivity tools.
+**Software Developer** focused on React, TypeScript, Python, and practical software development.
 
-I enjoy building practical software that solves real-world problems through clean interfaces and thoughtful user experiences.
+I enjoy building applications that solve real-world problems through clean interfaces, iterative development, and thoughtful user experiences.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎤 Vocal Coach
-An AI-assisted vocal training application that helps singers improve pitch accuracy, vocal stability, and practice efficiency.
+### 🚗 Internet Motors
 
-**Tech**
-Python · Streamlit · Librosa · Audio Analysis
+A responsive vehicle inventory website being developed for a used-car dealership, currently under review and testing with the dealership team before real-world deployment.
+
+The project includes multilingual customer-facing pages and an admin-focused workflow for managing vehicle inventory.
+
+**Tech**  
+React · TypeScript · Vite · Responsive Web Design
+
+---
+
+### 🎤 Vocal Coach
+
+A web-based vocal training application designed to help singers improve pitch accuracy, vocal stability, and practice efficiency.
+
+**Tech**  
+React · TypeScript · Vite
 
 ---
 
 ### 🎵 Vocal Pitch Analysis App
-An advanced vocal analysis tool that visualizes pitch, vocal range, and performance data to help users understand and improve their singing.
 
-**Tech**
-Python · Streamlit · Librosa · NumPy
+A vocal analysis application that visualizes pitch, vocal range, and performance data to help users understand and improve their singing.
+
+**Tech**  
+Python · Streamlit · Librosa · NumPy · Audio Analysis
 
 ---
 
 ### 🎚️ Mixing Assistant
-A desktop application that analyzes vocal recordings and provides mixing recommendations for EQ, Compression, and De-essing.
 
-**Tech**
-Python · Streamlit · Audio Processing
+A vocal audio analysis application that examines recordings and provides practical recommendations for compression, de-essing, EQ, and mix preparation.
+
+**Tech**  
+Python · Streamlit · Librosa · NumPy · Audio Processing
 
 ---
 
 ### 🐱 Nyanya Churu
-A casual clicker game built with React Native and Expo as part of my mobile app development journey.
 
-**Tech**
+A casual clicker game built as a mobile application while exploring interactive UI, state management, and game-like user experiences.
+
+**Tech**  
 React Native · Expo · TypeScript
-
----
-
-### 🔮 Lumen Tarot
-A multilingual tarot reading application featuring structured AI interpretations and session management.
-
-**Tech**
-Python · Streamlit · JSON
 
 ---
 
 ## 🛠 Tech Stack
 
+**Languages**
 - Python
-- Streamlit
 - TypeScript
+- JavaScript
+- HTML
+- CSS
+
+**Frontend & Mobile**
+- React
 - React Native
-- Git & GitHub
+- Vite
+- Expo
+
+**Python & Data**
+- Streamlit
 - Librosa
-- Audio Processing
+- NumPy
+- pandas
+
+**Development**
+- Git
+- GitHub
 
 ---
 
 ## 🌱 Currently Working On
 
-- 🎤 Vocal Coach
-- 🎵 Vocal Pitch Analysis App
-- 🐱 Nyanya Churu
-- 🎮 Nyanya Mini Games
-- 🤖 AI Productivity Tools
+- 🚗 Internet Motors — dealership website currently under team review and testing
+- 🎤 Vocal Coach — React + TypeScript vocal training application
+- 🐱 Nyanya Churu — React Native mobile clicker game
+- 🎮 Nyanya Mini Games — browser-based mini game collection
+- 🎚️ Mixing Assistant — vocal audio analysis and recommendation improvements
 
 ---
 
 ## 🌐 Links
 
-🌍 Website  
+🌍 **Portfolio**  
 https://nyanyachi.github.io/nyanya-site/
 
-💻 GitHub  
+💻 **GitHub**  
 https://github.com/nyanyachi
-
-🎥 YouTube  
-https://www.youtube.com/@nyanyabox
 
 ---
 
